@@ -1,6 +1,6 @@
 {
-  "name": "node-app-scaffold",
-  "description": "Node App Scaffold",
+  "name": "scrummer",
+  "description": "Scrummer",
   "readme": "README.md",
   "version": "0.0.1",
   "engines": {

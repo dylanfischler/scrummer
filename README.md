@@ -1,4 +1,4 @@
-# Node App Scaffold
+# Scrummer
 
 ## Installation
 `npm install` <br>
